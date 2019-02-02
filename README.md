@@ -10,6 +10,7 @@
 - 2019년 01월 07일 : 백준 알고리즘 16234 인구이동 문제
     - <https://www.acmicpc.net/problem/16234>
 - 2019년 01월 13일 : 백준 알고리즘 14889 스타트와링크 문제
+<<<<<<< HEAD
     - <https://www.acmicpc.net/problem/14889>
 - 2019년 01월 26일 : 백준 알고리즘 14888 연산자 끼워넣기 문제
     - <https://www.acmicpc.net/problem/14888>
