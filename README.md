@@ -14,4 +14,8 @@
 - 2019년 01월 26일 : 백준 알고리즘 14888 연산자 끼워넣기 문제
     - <https://www.acmicpc.net/problem/14888>
 - 2019년 02월 02일 : 프로그래머스 해쉬 Level1 완주하지 못한 선수 문제
-    - <https://programmers.co.kr/learn/courses/30/lessons/42576?language=cpp>
+    - <https://programmers.co.kr/learn/courses/30/lessons/42576>
+- 2019년 02월 05일 : 백준 알고리즘 14891 톱니바퀴
+    - <https://www.acmicpc.net/problem/14891>
+- 2019년 02월 09일 : 프로그래머스 해쉬 Level2 전화번호 목록
+    - <https://programmers.co.kr/learn/courses/30/lessons/42577>
