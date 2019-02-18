@@ -19,3 +19,5 @@
     - <https://www.acmicpc.net/problem/14891>
 - 2019년 02월 09일 : 프로그래머스 해쉬 Level2 전화번호 목록
     - <https://programmers.co.kr/learn/courses/30/lessons/42577>
+- 2019년 02월 17일 : 백준 알고리즘 14499 주사위 굴리기
+    - <https://www.acmicpc.net/problem/14499>
