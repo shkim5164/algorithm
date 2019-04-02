@@ -23,3 +23,9 @@
     - <https://www.acmicpc.net/problem/14499>
 - 2019년 03월 03일 : 백준 알고리즘 13458 시험감독
     - <https://www.acmicpc.net/problem/13458>
+- 2019년 03월 23일 : 백준 알고리즘 12100 2048
+    - <https://www.acmicpc.net/problem/12100>
+- 2019년 03월 30일 : 백준 알고리즘 15684 사다리조작
+    - <https://www.acmicpc.net/problem/15684>
+- 2019년 04월 01일 : 백준 알고리즘 16235 나무재태크
+    - <https://www.acmicpc.net/problem/16235>
